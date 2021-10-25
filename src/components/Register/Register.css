@@ -1,0 +1,9 @@
+.form{
+    width: 400px;
+    border-radius: 10px;
+    border: 1px solid gray;
+    transition: 0.5s;
+}
+.form:hover{
+    box-shadow: 2px 5px 10px gray;
+}
